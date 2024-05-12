@@ -1,26 +1,6 @@
 ## 👋 Hi there
 
-I'm windstone (17 years old), a frontend developer!
-
-something something
-
-something something
-
-something something
-
-something something
-
-## 💬 Social Links
-
-Email: [notwindstone@gmail.com](mailto:notwindstone@gmail.com)
-
-Discord: [@notwindstone](https://discord.com/channels/510709295814279168)
-
-Telegram: [@windst1](https://t.me/windst1)
-
-VK: [@notwindstone](https://vk.com/notwindstone)
-
-Shikimori: [windstone](https://shikimori.one/windstone)
+I'm windstone (17 years old), a frontend developer! I'm currently learning Next.js.
 
 ## ⚡ My Tech Stack
 
@@ -44,6 +24,19 @@ Shikimori: [windstone](https://shikimori.one/windstone)
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+
+## 💬 Social Links
+
+Email: [notwindstone@gmail.com](mailto:notwindstone@gmail.com)
+
+Discord: [@notwindstone](https://discord.com/channels/510709295814279168)
+
+Telegram: [@windst1](https://t.me/windst1)
+
+VK: [@notwindstone](https://vk.com/notwindstone)
+
+Shikimori: [windstone](https://shikimori.one/windstone)
+
 
 ## ⚙️ Currently working on
 
