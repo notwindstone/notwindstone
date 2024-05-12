@@ -1,7 +1,5 @@
 ## 👋 Hi there
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=windstone-aristotle-yellow&theme=default&show_icons=true&hide_border=true&count_private=true">
-  
 I'm windstone (17 years old), a frontend developer!
 
 something something
@@ -42,6 +40,14 @@ something something
 ## 📂 Other Projects
 
 [![Keyboard Wiki Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/keyboard-wiki&mode=light&style=horizontal)](https://github.com/windstone-aristotle-yellow/keyboard-wiki)  
+
+## 📈 Stats
+
+![windstone-aristotle-yellow's Stats](https://github-readme-stats.vercel.app/api?username=windstone-aristotle-yellow&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![windstone-aristotle-yellow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=windstone-aristotle-yellow&theme=default&hide_border=true)
+
+![windstone-aristotle-yellow's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=windstone-aristotle-yellow&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ## 💬 Social Links
 
