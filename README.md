@@ -13,6 +13,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
+  <img alt="Tanstack Virtual" src="https://img.shields.io/badge/-Tanstack%20Virtual-111827?style=for-the-badge&logo=react%20query&logoColor=a855f7">
+  <img alt="PostCSS" src="https://img.shields.io/badge/PostCSS-white?style=for-the-badge&logo=postcss&logoColor=dd3a0a">
 </p>
 
 ### Hi there 👋
