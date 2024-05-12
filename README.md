@@ -1,8 +1,18 @@
-## Hi there 👋
+## 👋 Hi there
 
-I'm windstone (17 years old)
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=windstone-aristotle-yellow&theme=default&show_icons=true&hide_border=true&count_private=true">
+  
+I'm windstone (17 years old), a frontend developer!
 
-### My Tech Stack
+something something
+
+something something
+
+something something
+
+something something
+
+## ⚡ My Tech Stack
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
@@ -25,13 +35,22 @@ I'm windstone (17 years old)
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-Here are some ideas to get you started:
+## ⚙️ Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Animeth Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/animeth&mode=dark&style=horizontal)](https://github.com/windstone-aristotle-yellow/animeth)
+
+## 📂 Other Projects
+
+[![Keyboard Wiki Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/keyboard-wiki&mode=light&style=horizontal)](https://github.com/windstone-aristotle-yellow/keyboard-wiki)  
+
+## 💬 Social Links
+
+something discord
+
+something vk
+
+something tg
+
+something shikimori
+
+something something
