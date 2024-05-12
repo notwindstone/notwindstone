@@ -1,5 +1,3 @@
-<img alt="По четвергам самые мощные мемы image" src="/public/forGithubProfile.jpg">
-
 ## Hi there 👋
 
 I'm windstone (17 years old)
