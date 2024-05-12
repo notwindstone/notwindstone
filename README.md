@@ -12,6 +12,8 @@ something something
 
 ## 💬 Social Links
 
+Email: [notwindstone@gmail.com](mailto:notwindstone@gmail.com)
+
 Discord: [@notwindstone](https://discord.com/channels/510709295814279168)
 
 Telegram: [@windst1](https://t.me/windst1)
