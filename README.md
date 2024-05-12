@@ -43,11 +43,11 @@ something something
 
 ## 📈 Stats
 
-![windstone-aristotle-yellow's Stats](https://github-readme-stats.vercel.app/api?username=windstone-aristotle-yellow&theme=default&show_icons=true&hide_border=true&count_private=true)
+<img width="100%" alt="Github Profile Stats" src="https://github-readme-stats.vercel.app/api?username=windstone-aristotle-yellow&theme=default&show_icons=true&hide_border=true&count_private=true">
 
-![windstone-aristotle-yellow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=windstone-aristotle-yellow&theme=default&hide_border=true)
+<img width="100%" alt="Github Profile Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=windstone-aristotle-yellow&theme=default&hide_border=true">
 
-![windstone-aristotle-yellow's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=windstone-aristotle-yellow&theme=default&show_icons=true&hide_border=true&layout=compact)
+<img width="100%" alt="Github Profile Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windstone-aristotle-yellow&theme=default&show_icons=true&hide_border=true&layout=compact">
 
 ## 💬 Social Links
 
