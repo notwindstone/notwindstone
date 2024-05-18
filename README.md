@@ -10,6 +10,7 @@ I'm windstone (17 years old), a frontend developer! I'm currently learning Next.
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="CSS BEM" src="https://img.shields.io/badge/css%20bem-e82b6b.svg?style=for-the-badge&logo=bem&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Mantine" src="https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0">
   <img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle-121212?style=for-the-badge&logo=Drizzle&logoColor=bae94b">
