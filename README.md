@@ -30,7 +30,7 @@ I'm windstone (17 years old), a frontend developer! I'm currently learning Next.
 
 Email: [notwindstone@gmail.com](mailto:notwindstone@gmail.com)
 
-Discord: [@notwindstone](https://discord.com/channels/510709295814279168)
+Discord: [@notwindstone](https://discord.com/users/510709295814279168)
 
 Telegram: [@windst1](https://t.me/windst1)
 
