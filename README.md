@@ -28,6 +28,8 @@ I'm windstone (17 years old), a frontend developer! I'm currently learning Next.
 
 ## 💬 Social Links
 
+![](https://komarev.com/ghpvc/?username=windstone-aristotle-yellow)
+
 Email: [notwindstone@gmail.com](mailto:notwindstone@gmail.com)
 
 Discord: [@notwindstone](https://discord.com/users/510709295814279168)
@@ -37,7 +39,6 @@ Telegram: [@windst1](https://t.me/windst1)
 VK: [@notwindstone](https://vk.com/notwindstone)
 
 Shikimori: [windstone](https://shikimori.one/windstone)
-
 
 ## ⚙️ Currently working on
 
