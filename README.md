@@ -28,7 +28,7 @@ I'm windstone (17 years old), a frontend developer! I'm currently learning Next.
 
 ## 💬 Social Links
 
-![](https://komarev.com/ghpvc/?username=windstone-aristotle-yellow)
+![](https://komarev.com/ghpvc/?username=windstone-aristotle-yellow&style=for-the-badge)
 
 Email: [notwindstone@gmail.com](mailto:notwindstone@gmail.com)
 
