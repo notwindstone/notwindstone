@@ -18,16 +18,6 @@ I'm windstone (17 years old), a frontend developer. I'm currently learning Next.
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-## Social Links
-
-Email: [notwindstone@gmail.com](mailto:notwindstone@gmail.com)
-
-Discord: [@notwindstone](https://discord.com/users/510709295814279168)
-
-Telegram: [@windst1](https://t.me/windst1)
-
-VK: [@notwindstone](https://vk.com/notwindstone)
-
 ## My biggest project yet
 
 [![Animeth Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/animeth&mode=dark&style=horizontal)](https://github.com/windstone-aristotle-yellow/animeth)
