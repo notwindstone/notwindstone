@@ -29,8 +29,8 @@ I'm windstone (17 years old), a frontend developer. I'm currently learning Next.
 ## Stats
 
 <div align="center">
-  <img height="150" alt="Github Profile Main Stats" src="https://github-readme-stats.vercel.app/api?username=windstone-aristotle-yellow&theme=default&show_icons=true&hide_border=true&count_private=true">
-  <img height="150" alt="Github Profile Contributions Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=windstone-aristotle-yellow&theme=default&hide_border=true">
+  <img height="150" alt="Github Profile Main Stats" src="https://github-readme-stats.vercel.app/api?username=windstone-aristotle-yellow&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+  <img height="150" alt="Github Profile Contributions Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=windstone-aristotle-yellow&theme=dracula&hide_border=true">
 </div>
 
 ###
