@@ -20,11 +20,11 @@ I'm windstone (17 years old), a frontend developer. I'm currently learning Next.
 
 ## My biggest project yet
 
-[![Animeth Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/animeth&mode=dark&style=horizontal)](https://github.com/windstone-aristotle-yellow/animeth)
+[![Animeth Bookmark](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/animeth&mode=dark&style=horizontal)](https://github.com/windstone-aristotle-yellow/animeth)
 
 ## Other Projects
 
-[![Keyboard Wiki Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/keyboard-wiki&mode=light&style=horizontal)](https://github.com/windstone-aristotle-yellow/keyboard-wiki)  
+[![Keyboard Wiki Bookmark](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/keyboard-wiki&mode=light&style=horizontal)](https://github.com/windstone-aristotle-yellow/keyboard-wiki)  
 
 ## Stats
 
