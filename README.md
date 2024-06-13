@@ -20,25 +20,25 @@ I'm windstone (17 years old), a frontend developer. I'm currently learning Next.
 
 ## My biggest project yet
 
-[![Animeth Bookmark](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/animeth&mode=dark&style=horizontal)](https://github.com/windstone-aristotle-yellow/animeth)
+[![Animeth Bookmark](https://svg.bookmark.style/api?url=https://github.com/notwindstone/animeth&mode=dark&style=horizontal)](https://github.com/notwindstone/animeth)
 
 ## Other Projects
 
-[![Keyboard Wiki Bookmark](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/keyboard-wiki&mode=light&style=horizontal)](https://github.com/windstone-aristotle-yellow/keyboard-wiki)  
+[![Keyboard Wiki Bookmark](https://svg.bookmark.style/api?url=https://github.com/notwindstone/keyboard-wiki&mode=light&style=horizontal)](https://github.com/notwindstone/keyboard-wiki)  
 
-[![Nextrinth Bookmark](https://svg.bookmark.style/api?url=https://github.com/windstone-aristotle-yellow/nextrinth&mode=light&style=horizontal)](https://github.com/windstone-aristotle-yellow/nextrinth)
+[![Nextrinth Bookmark](https://svg.bookmark.style/api?url=https://github.com/notwindstone/nextrinth&mode=light&style=horizontal)](https://github.com/notwindstone/nextrinth)
 
 ## Stats
 
 <div align="center">
-  <img height="150" alt="Github Profile Main Stats" src="https://github-readme-stats.vercel.app/api?username=windstone-aristotle-yellow&theme=dracula&show_icons=true&hide_border=true&count_private=true">
-  <img height="150" alt="Github Profile Contributions Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=windstone-aristotle-yellow&theme=dracula&hide_border=true">
+  <img height="150" alt="Github Profile Main Stats" src="https://github-readme-stats.vercel.app/api?username=notwindstone&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+  <img height="150" alt="Github Profile Contributions Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=notwindstone&theme=dracula&hide_border=true">
 </div>
 
 ###
 
 <div align="center">
-  <img alt="Github Profile Viewcount" src="https://komarev.com/ghpvc/?username=windstone-aristotle-yellow&style=for-the-badge">
+  <img alt="Github Profile Viewcount" src="https://komarev.com/ghpvc/?username=notwindstone&style=for-the-badge">
 </div>
 
 ###
