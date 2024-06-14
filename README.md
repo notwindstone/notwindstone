@@ -26,7 +26,7 @@ I'm windstone (17 years old), a frontend developer. I'm currently learning Next.
 
 [![Keyboard Wiki Bookmark](https://svg.bookmark.style/api?url=https://github.com/notwindstone/keyboard-wiki&mode=light&style=horizontal)](https://github.com/notwindstone/keyboard-wiki)  
 
-[![Nextrinth Bookmark](https://svg.bookmark.style/api?url=https://github.com/notwindstone/nextrinth&mode=light&style=horizontal)](https://github.com/notwindstone/nextrinth)
+[![Nextrinth Bookmark](https://svg.bookmark.style/api?url=https://github.com/notwindstone/hangarinth&mode=light&style=horizontal)](https://github.com/notwindstone/hangarinth)
 
 ## Stats
 
