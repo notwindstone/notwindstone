@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm windstone (17 years old), a frontend developer. I'm currently learning Nuxt.js 3 and Next.js 14.
+I'm windstone (17 years old), a frontend developer. I'm currently learning JavaScript.
 
 ## I code with
 
