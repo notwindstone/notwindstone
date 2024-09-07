@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm windstone (17 years old), a frontend developer. I'm currently learning JavaScript.
+Yet another frontend developer
 
 ## I code with
 
@@ -16,15 +14,6 @@ I'm windstone (17 years old), a frontend developer. I'm currently learning JavaS
   <img height="40" alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
   <img width="12" />
   <img height="40" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img width="12" />
-  <img height="40" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img width="12" />
-  <img height="40" alt="Jetpack compose" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg">
-  <img width="12" />
-  <img height="40" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img width="12" />
-  <img height="40" alt="GoLang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-</p>
 
 ## My biggest project yet
 
