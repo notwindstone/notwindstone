@@ -15,21 +15,9 @@ Yet another frontend developer
   <img width="12" />
   <img height="40" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 
-## My biggest project yet
-
-[![Anisun](https://svg.bookmark.style/api?url=https://github.com/notwindstone/anisun&mode=dark&style=horizontal)](https://github.com/notwindstone/anisun)
-
-## Stats
-
-<div align="center">
-  <img height="150" alt="Github Profile Main Stats" src="https://github-readme-stats.vercel.app/api?username=notwindstone&theme=dracula&show_icons=true&hide_border=true&count_private=true">
-  <img height="150" alt="Github Profile Contributions Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=notwindstone&theme=dracula&hide_border=true">
-</div>
-
-###
-
-<div align="center">
-  <img alt="Github Profile Viewcount" src="https://komarev.com/ghpvc/?username=notwindstone&style=for-the-badge">
-</div>
-
-###
+## My projects
+- [anisun](https://github.com/notwindstone/anisun) - anime streaming website
+- [keyboard-wiki](https://github.com/notwindstone/keyboard-wiki) - keyboard wiki website
+- [freesm-launcher](https://github.com/FreesmTeam/FreesmLauncher) - fork of another minecraft launcher
+- [website-freesmlauncher](https://github.com/FreesmTeam/website-freesmlauncher) - website for a minecraft launcher
+- [persona-4-golden-fusion-calculator](https://github.com/notwindstone/persona-4-golden-fusion-calculator) - fusion calculator for a game
