@@ -19,5 +19,5 @@ Yet another frontend developer
 - [anisun](https://github.com/notwindstone/anisun) - anime streaming website
 - [keyboard-wiki](https://github.com/notwindstone/keyboard-wiki) - keyboard wiki website
 - [freesm-launcher](https://github.com/FreesmTeam/FreesmLauncher) - fork of another minecraft launcher
-- [website-freesmlauncher](https://github.com/FreesmTeam/website-freesmlauncher) - website for a minecraft launcher
-- [persona-4-golden-fusion-calculator](https://github.com/notwindstone/persona-4-golden-fusion-calculator) - fusion calculator for a game
+- [website-freesmlauncher](https://github.com/FreesmTeam/website-freesmlauncher) - website for a minecraft launcher (WIP)
+- [persona-4-golden-fusion-calculator](https://github.com/notwindstone/persona-4-golden-fusion-calculator) - fusion calculator for a game (WIP)
