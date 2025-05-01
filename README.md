@@ -13,6 +13,8 @@ Yet another frontend developer
   <img width="12" />
   <img height="40" alt="Wails" src="https://raw.githubusercontent.com/wailsapp/wails/refs/heads/master/assets/images/logo-universal.png">
   <img width="12" />
+  <img height="40" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+  <img width="12" />
   <img height="40" alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
   <img width="12" />
   <img height="40" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
@@ -20,8 +22,8 @@ Yet another frontend developer
 ## My projects
 
 - ⭐ [anisun](https://github.com/notwindstone/anisun) - anime streaming website
-- [zen-auth](github.com/notwindstone/zen-auth) - comprehensive authentication system for next.js (template code)
-- [website-freesm-launcher](https://github.com/notwindstone/website-freesmlauncher) - interactive website for a minecraft launcher
+- [zen-auth](https://github.com/notwindstone/zen-auth) - comprehensive authentication system for next.js (template code)
+- [website-freesm-launcher](https://github.com/FreesmTeam/website-freesmlauncher) - interactive website for a minecraft launcher
 - [keyboard-wiki](https://github.com/notwindstone/keyboard-wiki) - keyboard wiki website
 - [freesm-launcher](https://github.com/FreesmTeam/FreesmLauncher) - fork of another minecraft launcher
 - [notwindstone.github.io](https://github.com/notwindstone/notwindstone.github.io/) - portfolio spa website written in pure html, css, js and minified to just ~10kb of code
