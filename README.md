@@ -19,11 +19,11 @@
 
 ## My projects
 
-- ⭐ [anisun](https://github.com/notwindstone/anisun) - extension-based web anime browser `(wip)`
-- [zen-auth](https://github.com/notwindstone/zen-auth) - comprehensive authentication system for next.js (template code)
-- [website-freesm-launcher](https://github.com/FreesmTeam/website-freesmlauncher) - interactive website for a minecraft launcher
-- [keyboard-wiki](https://github.com/notwindstone/keyboard-wiki) - keyboard wiki website
-- [freesm-launcher](https://github.com/FreesmTeam/FreesmLauncher) - fork of another minecraft launcher
-- [notwindstone.github.io](https://github.com/notwindstone/notwindstone.github.io/) - portfolio spa website written in pure html, css, js and minified to just ~10kb of code
-- [kaede](https://github.com/FreesmTeam/Kaede/) - minecraft launcher written in typescript & go using wails `(wip)`
-- [persona-4-golden-fusion-calculator](https://github.com/notwindstone/persona-4-golden-fusion-calculator) - fusion calculator for a game `(wip)`
+- ⭐ [anisun](https://github.com/notwindstone/anisun) - an extension-based web anime browser `(wip)`
+- [website-freesm-launcher](https://github.com/FreesmTeam/website-freesmlauncher) - an interactive website for a minecraft launcher
+- [zen-auth](https://github.com/notwindstone/zen-auth) - a session-based authentication system for next.js
+- [notwindstone.github.io](https://github.com/notwindstone/notwindstone.github.io/) - a portfolio spa website written in pure html, css, js and minified to just ~10kb of code
+- [keyboard-wiki](https://github.com/notwindstone/keyboard-wiki) - a keyboard wiki website
+- [freesm-launcher](https://github.com/FreesmTeam/FreesmLauncher) - a fork of another minecraft launcher
+- [kaede](https://github.com/FreesmTeam/Kaede/) - a minecraft launcher written in typescript & go using wails `(wip)`
+- [persona-4-golden-fusion-calculator](https://github.com/notwindstone/persona-4-golden-fusion-calculator) - a fusion calculator for the game `(wip)`
