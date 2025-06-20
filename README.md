@@ -1,5 +1,3 @@
-Yet another frontend developer
-
 ## I code with
 
 <p>
@@ -21,7 +19,7 @@ Yet another frontend developer
 
 ## My projects
 
-- ⭐ [anisun](https://github.com/notwindstone/anisun) - extension-based web anime browser
+- ⭐ [anisun](https://github.com/notwindstone/anisun) - extension-based web anime browser `(wip)`
 - [zen-auth](https://github.com/notwindstone/zen-auth) - comprehensive authentication system for next.js (template code)
 - [website-freesm-launcher](https://github.com/FreesmTeam/website-freesmlauncher) - interactive website for a minecraft launcher
 - [keyboard-wiki](https://github.com/notwindstone/keyboard-wiki) - keyboard wiki website
