@@ -5,17 +5,17 @@
   <img width="12" />
   <img height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img width="12" />
-  <img height="40" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img width="12" />
-  <img height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img width="12" />
-  <img height="40" alt="Wails" src="https://raw.githubusercontent.com/wailsapp/wails/refs/heads/master/assets/images/logo-universal.png">
-  <img width="12" />
   <img height="40" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <img width="12" />
   <img height="40" alt="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
   <img width="12" />
   <img height="40" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img width="12" />
+  <img height="40" alt="Wails" src="https://raw.githubusercontent.com/wailsapp/wails/refs/heads/master/assets/images/logo-universal.png">
+  <img width="12" />
+  <img height="40" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img width="12" />
+  <img height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
 ## My projects
 
