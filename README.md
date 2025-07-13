@@ -1,8 +1,8 @@
 <div align='center'>
 
-![moe-counter]
+[![moe-counter]](https://count.getloli.com/)
 
-![stats-overview]
+[![stats-overview]](https://gh-stats-gen.vercel.app/)
 
 </div>
 
