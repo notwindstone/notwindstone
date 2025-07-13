@@ -2,6 +2,8 @@
 
 ![moe-counter]
 
+![stats-overview]
+
 </div>
 
 <div align="center">
@@ -39,3 +41,4 @@
 </div>
 
 [moe-counter]: https://count.getloli.com/@notwindstone?name=notwindstone&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+[stats-overview]: https://github-readme-stats.vercel.app/api?username=notwindstone&theme=react&show_icons=true&hide_border=true&count_private=true
