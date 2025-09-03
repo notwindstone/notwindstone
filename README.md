@@ -26,11 +26,6 @@
   <img width="40" height="40" alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
   <img width="12" />
 
-  <img width="40" height="40" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img width="12" />
-  <img width="40" height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img width="12" />
-
   <img width="40" height="40" alt="Jetpack Compose" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg">
   <img width="12" />
   <img width="50.5" height="40" alt="Wails" src="https://raw.githubusercontent.com/wailsapp/wails/refs/heads/master/assets/images/logo-universal.png">
