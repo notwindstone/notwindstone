@@ -1,12 +1,15 @@
-<div align='center'>
+<div>
 
 [![moe-counter]](https://count.getloli.com/)
 
-[![stats-overview]](https://gh-stats-gen.vercel.app/)
+### My projects
+
+- [Kaede](https://github.com/kaede-basement/kaede) - a Minecraft launcher with user plugins;
+- [anisun](https://anime.tatar/) - a website for exploring anime.
 
 </div>
 
-<div align="center">
+<div>
   <img width="40" height="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img width="12" />
   <img width="40" height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -36,4 +39,3 @@
 </div>
 
 [moe-counter]: https://count.getloli.com/@notwindstone?name=notwindstone&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
-[stats-overview]: https://github-readme-stats.vercel.app/api?username=notwindstone&theme=react&show_icons=true&hide_border=true&count_private=true
