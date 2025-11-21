@@ -2,10 +2,12 @@
 
 [![moe-counter]](https://count.getloli.com/)
 
-### My projects
+## My projects
 
 - [Kaede](https://github.com/kaede-basement/kaede) - a Minecraft launcher with user plugins;
 - [anisun](https://anime.tatar/) - a website for exploring anime.
+
+## Skills
 
 </div>
 
