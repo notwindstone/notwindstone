@@ -2,10 +2,9 @@
 
 [![moe-counter]](https://count.getloli.com/)
 
-## My projects
+## My greatest project <3
 
-- [Kaede](https://github.com/kaede-basement/kaede) - a Minecraft launcher with user plugins;
-- [anisun](https://anime.tatar/) - a website for exploring anime.
+- [Kaede](https://github.com/kaede-basement/kaede) - an extremely customizable Minecraft launcher with sandboxed user plugins [wip].
 
 ## Skills
 
