@@ -2,7 +2,7 @@
 
 [![moe-counter]](https://count.getloli.com/)
 
-## My greatest project <3
+## >.<
 
 - [Kaede](https://github.com/kaede-basement/kaede) - an extremely customizable Minecraft launcher with sandboxed user plugins [wip].
 
