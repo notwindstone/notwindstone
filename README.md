@@ -2,10 +2,6 @@
 
 [![moe-counter]](https://count.getloli.com/)
 
-## >.<
-
-- [Kaede](https://github.com/kaede-basement/kaede) - an extremely customizable Minecraft launcher with sandboxed user plugins [wip].
-
 ## Skills
 
 </div>
